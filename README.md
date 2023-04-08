@@ -1,6 +1,6 @@
 ## Hi There!✋ Welcome to my GitHub! 👨🏻‍💻
 
-<div align="center">
+<div>
 <img src="https://user-images.githubusercontent.com/122119589/230702684-817036fa-f663-4468-8726-156dbb102c57.gif"
 ="754px" />
 </div>
